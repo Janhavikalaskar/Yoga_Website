@@ -27,4 +27,5 @@ Skills Tested:
   
 - Responsive Web Design
 
-![Untitled](https://github.com/Janhavikalaskar/Yoga_Website/assets/106433937/ef50072f-edd0-4136-ab22-5850828f5598)
+![yoga_home html](https://github.com/Janhavikalaskar/Yoga_Website/assets/106433937/c7aa4241-6c03-459f-aa59-7688d198f486)
+
